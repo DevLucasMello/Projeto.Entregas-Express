@@ -1,0 +1,5 @@
+C:\Users\Lucas\source\repos\SantosExpress\Santos.Domain\bin\Debug\Santos.Domain.dll
+C:\Users\Lucas\source\repos\SantosExpress\Santos.Domain\bin\Debug\Santos.Domain.pdb
+C:\Users\Lucas\source\repos\SantosExpress\Santos.Domain\obj\Debug\Santos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\SantosExpress\Santos.Domain\obj\Debug\Santos.Domain.dll
+C:\Users\Lucas\source\repos\SantosExpress\Santos.Domain\obj\Debug\Santos.Domain.pdb

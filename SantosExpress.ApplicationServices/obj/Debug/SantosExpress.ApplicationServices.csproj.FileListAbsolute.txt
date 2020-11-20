@@ -1,0 +1,9 @@
+C:\Users\Lucas\source\repos\SantosExpress\SantosExpress.ApplicationServices\bin\Debug\SantosExpress.ApplicationServices.dll
+C:\Users\Lucas\source\repos\SantosExpress\SantosExpress.ApplicationServices\bin\Debug\SantosExpress.ApplicationServices.pdb
+C:\Users\Lucas\source\repos\SantosExpress\SantosExpress.ApplicationServices\bin\Debug\Santos.Domain.dll
+C:\Users\Lucas\source\repos\SantosExpress\SantosExpress.ApplicationServices\bin\Debug\Santos.Domain.pdb
+C:\Users\Lucas\source\repos\SantosExpress\SantosExpress.ApplicationServices\obj\Debug\SantosExpress.ApplicationServices.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\SantosExpress\SantosExpress.ApplicationServices\obj\Debug\SantosExpress.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\SantosExpress\SantosExpress.ApplicationServices\obj\Debug\SantosExpress.ApplicationServices.csproj.CopyComplete
+C:\Users\Lucas\source\repos\SantosExpress\SantosExpress.ApplicationServices\obj\Debug\SantosExpress.ApplicationServices.dll
+C:\Users\Lucas\source\repos\SantosExpress\SantosExpress.ApplicationServices\obj\Debug\SantosExpress.ApplicationServices.pdb

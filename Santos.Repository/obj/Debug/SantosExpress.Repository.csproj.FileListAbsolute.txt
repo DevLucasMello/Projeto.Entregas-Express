@@ -1,0 +1,11 @@
+C:\Users\Lucas\source\repos\SantosExpress\Santos.Repository\bin\Debug\Santos.Repository.dll
+C:\Users\Lucas\source\repos\SantosExpress\Santos.Repository\bin\Debug\Santos.Repository.pdb
+C:\Users\Lucas\source\repos\SantosExpress\Santos.Repository\bin\Debug\Dapper.dll
+C:\Users\Lucas\source\repos\SantosExpress\Santos.Repository\bin\Debug\Santos.Domain.dll
+C:\Users\Lucas\source\repos\SantosExpress\Santos.Repository\bin\Debug\Santos.Domain.pdb
+C:\Users\Lucas\source\repos\SantosExpress\Santos.Repository\bin\Debug\Dapper.xml
+C:\Users\Lucas\source\repos\SantosExpress\Santos.Repository\obj\Debug\SantosExpress.Repository.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\SantosExpress\Santos.Repository\obj\Debug\SantosExpress.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\SantosExpress\Santos.Repository\obj\Debug\SantosExpress.Repository.csproj.CopyComplete
+C:\Users\Lucas\source\repos\SantosExpress\Santos.Repository\obj\Debug\Santos.Repository.dll
+C:\Users\Lucas\source\repos\SantosExpress\Santos.Repository\obj\Debug\Santos.Repository.pdb
